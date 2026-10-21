@@ -1,0 +1,11 @@
+:HL["/samurai-jeans/_next/static/chunks/3t6-hw-9u937i.css","style"]
+:HL["/samurai-jeans/_next/static/media/48a1b83fac2e67c0-s.p.3cf098qak07_k.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/samurai-jeans/_next/static/media/ab57efd000576a30-s.p.3fofz6dws3mg0.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/samurai-jeans/_next/static/media/cef856781ea24bd1-s.p.42r14_4q5vmfj.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["https://fonts.googleapis.com/css2?family=Shippori+Mincho+B1:wght@600;800&text=%E8%97%8D%E8%81%B7%E4%BA%BA%E8%89%B2%E8%90%BD%E3%81%A1%E6%97%A5%E8%AA%8C%E4%BE%8D%E3%83%87%E3%83%8B%E3%83%A0%E3%81%AB%E5%AE%BF%E3%82%8B%E9%AD%82%E4%BC%9D%E7%B5%B1%E3%81%A8%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E3%81%AE%E8%9E%8D%E5%90%88%E3%83%BB%E9%81%93%E7%94%9F%E8%B5%A4%E8%80%B3%E5%88%BA%E7%B9%8D%E3%83%91%E3%83%83%E3%83%81%E6%9C%AC%E7%89%A9%E9%87%91%E5%85%B7%E9%87%A6%E9%8B%B2%E9%8D%9B%E9%8C%AC%E7%B9%94%E8%A3%81%E5%8D%B0%E7%9D%80%E4%BB%95%E4%B8%8A%E3%81%92&display=swap","style"]
+:HL["https://fonts.googleapis.com/css2?family=Protest+Revolution&text=Built%20Dfern.&display=swap","style"]
+:HL["/samurai-jeans/brand/logo-symbol-light.webp","image",{"fetchPriority":"high"}]
+:HL["/samurai-jeans/images/hero-fuji-wash.webp","image"]
+:HL["/samurai-jeans/brand/logo-wordmark-light.webp","image"]
+1:[["children",{"s":"__PAGE__","h":160}]]
+0:{"b":"5FdGgJ_MSIkP8ZydARczi","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
